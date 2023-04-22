@@ -3,15 +3,15 @@ Archiving useful resources for Computer Graphics.
 # OpenGL
 |Title|Use|Link|
 |---|---|---|
-|glitter|boilerplate|glitter-link|
-|glfw|windowing and input|glfw-link|
-|assimp|mesh loading|assimp-link|
-|bullet|physics|bullet-link|
-|glad|openGL function loader|glad-link|
-|glm|openGL mathematics|glm-link|
-|stb|texture loading|stb-link|
-|glslang|HLSL reference|glslang-link|
-|learnOpenGL|learn opengl code repository|learnopengl-link|
+|glitter|boilerplate|[glitter-link][glitter-link]|
+|glfw|windowing and input|[glfw-link][glfw-link]|
+|assimp|mesh loading|[assimp-link][assimp-link]|
+|bullet|physics|[bullet-link][bullet-link]|
+|glad|openGL function loader|[glad-link][glad-link]|
+|glm|openGL mathematics|[glm-link][glm-link]|
+|stb|texture loading|[stb-link][stb-link]|
+|glslang|HLSL reference|[glslang-link][glslang-link]|
+|learnOpenGL|learn opengl code repository|[learnopengl-link][learnopengl-link]|
 
 
 
